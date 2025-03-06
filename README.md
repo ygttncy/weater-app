@@ -8,7 +8,7 @@ This Weather App is a simple, user-friendly application that provides real-time 
 - Display real-time weather data including temperature, humidity, wind speed, and weather description
 - Dynamic and responsive UI for an enhanced user experience
 - Clear and minimalistic design for easy navigation
--visit site ----> https://conditionweather.netlify.app/
+- visit site ----> https://conditionweather.netlify.app/
 ## Technologies Used
 - **HTML**: For structuring the application layout
 - **CSS**: For styling and designing the interface
